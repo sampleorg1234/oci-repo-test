@@ -1,4 +1,4 @@
 dependencies:
-- name: memcached
-  version: "6.5.4"
-  repository: "oci://registry-1.docker.io/bitnamicharts"
+- name: chart
+  version: "1.0.123-DEPLOY"
+  repository: "oci://registry-1.docker.io/ayushm10"
