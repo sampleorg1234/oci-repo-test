@@ -3,3 +3,8 @@ name: test--chart
 description: Simple Chart
 type: application
 version: 0.1.0
+
+dependencies:
+- name: ayushm10/chart
+  version: "1.0.123-DEPLOY"
+  repository: "oci://registry-1.docker.io"
