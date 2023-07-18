@@ -1,4 +1,4 @@
 dependencies:
 - name: chart
-  version: "1.0.5138"
+  version: "1.0.123-DEPLOY"
   repository: "oci://registry-1.docker.io/ayushm10"
